@@ -5,7 +5,7 @@
 
 ## Setup
 1. Open your terminal and clone this application <br>
-    `$ git clone https://github.com/natesparas/nest-crud-api-01.git`
+    `$ git clone https://github.com/natesparas/todo-restapi.git`
 2. Go to the application <br>
     `$ cd nest-crud-api-01`
 3. Installing all the dependencies <br>
