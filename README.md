@@ -3,6 +3,14 @@
  - Copy the .env.example file and rename it to .env
 
 
+***********************
+
+For the Database, I am using MongoDB Atlas that has no IP Whitelisting so anyone can play with it. Just for this exercise only.
+
+***********************
+
+
+
 ## Setup
 1. Open your terminal and clone this application <br>
     `$ git clone https://github.com/natesparas/todo-restapi.git`
