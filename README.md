@@ -4,15 +4,15 @@
 
 
 ## Setup
-1. Open your terminal and clone this application
+1. Open your terminal and clone this application <br>
     `$ git clone https://github.com/natesparas/nest-crud-api-01.git`
-2. Go to the application
+2. Go to the application <br>
     `$ cd nest-crud-api-01`
-3. Installing all the dependencies
+3. Installing all the dependencies <br>
     `$ npm install`
-4. Sync schema with the datase
+4. Sync schema with the datase <br>
     `$ npx prisma db push`
-5. Running the application
+5. Running the application <br>
     `$ npm run start:dev`
 6. Import the API Collection into your prefered API Platform
    > For this example, I am using Postman
